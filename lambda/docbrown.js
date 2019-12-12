@@ -23,6 +23,7 @@ var QUOTES = [
     "It's Leave you idiot! Make like a tree & leave! You sound like a damn fool when you say it wrong!",
     "Time traveling is just too dangerous. Better that I devote myself to study the other great mystery of the universe: women!",
     "Shark still looks fake.",
+    "Ronald Reagan? The actor? Ha! Then who’s Vice President, Jerry Lewis? I suppose Jane Wyman is the First Lady. And Jack Benny is Secretary of the Treasury!",
     "Last night, Darth Vader came down from Planet Vulcan and told me that if I didn't take Lorraine out, that he'd melt my brain.",
     "Why don't you make like a tree and get out of here?",
     "Great Scott!"
